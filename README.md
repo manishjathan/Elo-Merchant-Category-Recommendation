@@ -2,4 +2,4 @@
 Solution to Elo-Merchant Category Recommendation problem
 
 ## Flow of Events/Processes
-![Flow Diagram](EloMerchantCategoryRecommendationFlow.jpg)
+![Flow Diagram](EloMerchantCategoryRecommendationFlow.png)
